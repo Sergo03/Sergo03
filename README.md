@@ -1,8 +1,11 @@
-### **Serhii Karpynskyi**             ### **CONTACT INFORMATION**
-### DevOps Engineer                   ### 068-378-9541 
-                                      ### karpinskiy94@gmail.com 
-                                      ### https://www.linkedin.com/in/sergo03/
-                                      ### Kyiv, Ukraine                                 
+### **Serhii Karpynskyi**             
+### DevOps Engineer
+
+### **CONTACT INFORMATION**
+### 068-378-9541 
+### karpinskiy94@gmail.com 
+### https://www.linkedin.com/in/sergo03/
+### Kyiv, Ukraine                                 
                                                            
   
 
