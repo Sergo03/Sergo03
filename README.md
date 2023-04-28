@@ -1,12 +1,11 @@
-### **Serhii Karpynskyi**             
-### DevOps Engineer
+### **Serhii Karpynskyi** 
+### DevOps Engineer  
 
-### **CONTACT INFORMATION**
+### **CONTACT INFORMATION**              
 ### 068-378-9541 
 ### karpinskiy94@gmail.com 
 ### https://www.linkedin.com/in/sergo03/
-### Kyiv, Ukraine                                 
-                                                           
+### Kyiv, Ukraine                                                         
   
 
 ### **SUMMARY**
@@ -15,21 +14,21 @@
 
 
 ### **TECH SKILLS**
-###  Windows Server 
-###  Linux
-###  TCP/IP
-###  DHCP
-###  Hyper-V
-###  VMware
-###  Docker
-###  Kubernetes
-###  Software intagration
-###  GIT
-###  HelpDesk 
-###  Apache/Nginx
+###  - Windows Server 
+###  - Linux
+###  - TCP/IP
+###  - DHCP
+###  - Hyper-V
+###  - VMware
+###  - Docker
+###  - Kubernetes
+###  - Software intagration
+###  - GIT
+###  - HelpDesk 
+###  - Apache/Nginx
 
 ###  **SOFT SKILLS**
-###  Responsibility
-###  Attentiveness
-###  Ability to work in a team 
-###  High ability to learn
+###  - Responsibility
+###  - Attentiveness
+###  - Ability to work in a team 
+###  - High ability to learn
