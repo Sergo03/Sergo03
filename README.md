@@ -1,16 +1,33 @@
-### Hi there 👋
+### Serhii Karpynskyi                                 
+### DevOps Engineer                                                             
 
-<!--
-**Sergo03/Sergo03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### CONTACT INFORMATION
+### 068-378-9541 
+### karpinskiy94@gmail.com 
+### https://www.linkedin.com/in/sergo03/
+### Kyiv, Ukraine
 
-Here are some ideas to get you started:
+### SUMMARY
+### I am a DevOps Engineer looking for a full-time position. Have expirience with linux, troubleshooting, GIT, Docker, Kubernetes.
+### Work with various kinds of software. I am a fast learner, responsible and team player. I am looking for a company in which I can grow and perform interesting tasks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### TECH SKILLS
+###  Windows Server 
+###  Linux
+###  TCP/IP
+###  DHCP
+###  Hyper-V
+###  VMware
+###  Docker
+###  Kubernetes
+###  Software intagration
+###  GIT
+###  HelpDesk 
+###  Apache/Nginx
+
+###  SOFT SKILLS
+###  Responsibility
+###  Attentiveness
+###  Ability to work in a team 
+###  High ability to learn
